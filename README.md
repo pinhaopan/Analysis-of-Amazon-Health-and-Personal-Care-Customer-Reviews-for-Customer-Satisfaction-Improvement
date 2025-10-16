@@ -11,7 +11,7 @@ Pin-Hao Pan,
 Ruo-Rong Wang, 
 Zehui Wang
 
-# Summary
+# Summary:
 
 This project integrates natural language processing, machine learning, and topic modeling to interpret over 490K Amazon reviews.
 By defining meaningful product categories and identifying sentiment trends, we provide Amazon sellers and brands with actionable insights to enhance customer satisfaction and product quality.
